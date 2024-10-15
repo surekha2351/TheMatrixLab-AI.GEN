@@ -376,10 +376,6 @@ nav ul {
   height: 528px; */
   border-radius: 24px 0px 0px 0px;
 }
-.outfit-2 > img:nth-of-type(2) {
-  /* width: 525px;
-  height: 528px; */
-}
 /* Tokenomics Styles */
 .tokenomics {
   width: 100%;
@@ -679,6 +675,7 @@ nav ul {
   color: transparent;
   width: 477px;
 }
+
 .footer-1 > div > div > button {
   font-family: Outfit;
   font-size: 24px;
